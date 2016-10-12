@@ -16,7 +16,7 @@ This is an ongoing side project to create a set of tools that procedurally-gener
 
 ## usage
 
-```
+```js
 import descriptionGenerator from 'dungeon-tools/description';
 
 descriptionGenerator(); /* 'An Elven maze, on the back of a Gargantuan living creature. Rumor has it that the original creator is still in control.' */
