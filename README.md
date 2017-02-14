@@ -1,5 +1,7 @@
 # [wip] dungeon-tools
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/yaycmyk/dungeon-tools.svg)](https://greenkeeper.io/)
+
 This is an ongoing side project to create a set of tools that procedurally-generate a dungeon based on 5th edition D&D rules.
 
 - [x] description generator
